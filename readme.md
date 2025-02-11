@@ -142,7 +142,8 @@ This project was developed with assistance from Claude 3.5 Sonnet for:
 4. Deploy the application
 
 The application will be accessible at the provided deployment URL.
-
+## Deployment
+This application is deployed on Railway. Live API endpoint: https://railway.com/project/5a68eb77-59b0-4b9e-b35b-a5d566c50cb7/service/7b880ed3-d02f-4c31-89fb-bbbb46787259?environmentId=246d93da-555c-4d8c-b204-ebfe8a8d9a39&id=e4b61b94-e129-4b19-8f01-60d3d6ccdd9b#details
 ## Future Improvements
 
 1. Add email/webhook notifications for alerts
